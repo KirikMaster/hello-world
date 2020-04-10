@@ -1,3 +1,3 @@
 # hello-world
-Giving a tradition
+# Giving a tradition
 Once there was a boy, who lived his life. He went through and tried hard. No harm could he imply. One day he, in his inspiration, discovered a power he had not possessed. This power was a gift of one, who could make world without some [resources]. This was indeed a charming day; a boy had made his first program! A short one, with weirdy words: "Hello, World!" and nothing else. And there his endeavors took a place, a hard will be his future pace. But high will be his soon success! He will be one with epic face! But now, let's not speed up, return to present time we must. He stands at massive little castle, he just about to enter it...
